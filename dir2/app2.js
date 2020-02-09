@@ -1,0 +1,1 @@
+console.login(123);
